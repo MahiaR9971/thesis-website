@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { Globe, Menu, X } from 'lucide-react'
 
 const navigation = [
-  { name: 'Education', href: '/education' },
+  { name: 'Learn About Upward Mobility', href: '/education' },
   { name: 'Assess Community', href: '/assess' },
   { name: 'Action Plan', href: '/action-plan' },
   { name: 'Success Stories', href: '/stories' },
