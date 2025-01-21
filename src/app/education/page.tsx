@@ -48,7 +48,7 @@ export default function Education() {
             Learn About Mobility
           </h1>
           <p className="text-xl text-[#536b6f]">
-            Understand the key factors that influence your child's opportunities for economic mobility
+            Understand the key factors that influence your child&apos;s opportunities for economic mobility
           </p>
         </div>
       </section>
